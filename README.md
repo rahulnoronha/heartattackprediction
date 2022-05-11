@@ -6,6 +6,7 @@ Implement the following classification algorithms in Python and Compare the accu
 #### Draw the graphs depicting the comparison of accuracies.
 <hr/>
 Result:
+
 ![Accuracies](https://github.com/rahulnoronha/heartattackprediction/blob/main/Result.png "Accuracy comparison")
 
 We implement these algorithms for the Heart Attack Prediction task on the data found below.
